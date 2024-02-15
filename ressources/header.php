@@ -1,53 +1,51 @@
 <div id="head" class="text-dark bg-warning">
     <ul class="nav">
         <div class="" style="padding-left: 1.8em">
-        <li class="nav-item navbar-expand-sm bg-light justify-content-left">
-            <img src="../images/logo.jpg" height="40" width="55">
-        </li>
+            <li class="nav-item navbar-expand-sm bg-light justify-content-left">
+                <img src="../images/logoFoot.avif" height="40" width="55">
+            </li>
         </div>
 
         <div class="nav" style="padding-left: 35em">
-        <li class="nav-item">
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                inscription
-            </a>
-             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="../menu/inscriptionClub.php">Club Football</a>
-                <a class="dropdown-item" href="../src_joueur/creerJoueur.php">Joueur Football</a>
+            <li class="nav-item">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    inscription
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="../menu/inscriptionClub.php">Club Football</a>
+                    <a class="dropdown-item" href="../src_joueur/creerJoueur.php">Joueur Football</a>
 
-            </div>
-        </li>
-        </li>
-        <li class="nav-item">
-        <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                tournoi
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="../src_club/indexClub.php">liste des clubs</a>
-                <a class="dropdown-item" href="../src_joueur/listeLicence.php">liste des Joueurs</a>
-                <a class="dropdown-item" href="../menu/classement.php">classement</a>
+                </div>
+            </li>
+            </li>
+            <li class="nav-item">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    tournoi
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="../src_club/indexClub.php">liste des clubs</a>
+                    <a class="dropdown-item" href="../src_joueur/listeLicence.php">liste des Joueurs</a>
+                    <a class="dropdown-item" href="../menu/classement.php">classement</a>
 
-            </div>
-        </li>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="../menu/contact.php">contact</a>
-        </li>
+                </div>
+            </li>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../menu/contact.php">contact</a>
+            </li>
 
-        <li class="nav-item">
-            <a class="nav-link " href="../menu/information.php" tabindex="-1" aria-disabled="true">information</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link disabled" href="../login/login.php" tabindex="-1" aria-disabled="true">
-                <span class="glyphicon glyphicon-off">login</span>
-            </a>
-        </li>
-        <li class="nav-item">
+            <li class="nav-item">
+                <a class="nav-link " href="../menu/information.php" tabindex="-1" aria-disabled="true">information</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="../login/login.php" tabindex="-1" aria-disabled="true">
+                    <span class="glyphicon glyphicon-off">login</span>
+                </a>
+            </li>
+            <li class="nav-item">
 
-        </li>
+            </li>
         </div>
     </ul>
