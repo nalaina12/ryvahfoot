@@ -1,12 +1,12 @@
 <div id="head" class="text-dark bg-warning">
-    <ul class="nav">
-        <div class="" style="padding-left: 1.8em">
+    <ul id="vertical_nav" class="nav">
+        <div id="logo" class="" style="padding-left: 1.8em">
             <li class="nav-item navbar-expand-sm bg-light justify-content-left">
                 <img src="../images/logoFoot.avif" height="40" width="55">
             </li>
         </div>
 
-        <div class="nav" style="padding-left: 35em">
+        <div id="nav_menu" class="nav" style="padding-left: 35em">
             <li class="nav-item">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

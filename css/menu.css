@@ -1,3 +1,7 @@
-h1{
+h1 {
     text-align: center;
+}
+
+#head {
+    background-color: black;
 }
