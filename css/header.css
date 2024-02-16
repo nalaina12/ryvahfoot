@@ -1,3 +1,23 @@
 #logo {
-    background-color: aqua !important;
+    background-color: rgb(43, 43, 121) !important;
+    padding: 0px 35px 0px 30px;
+}
+
+#head {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    background-color: rgb(219, 241, 17) !important;
+    /* Couleur de fond du menu */
+    z-index: 1000;
+    /* Pour empêcher que d'autres éléments se superposent */
+}
+
+/* Style pour le contenu pour permettre le défilement */
+#contenu {
+    margin-top: 70px;
+    /* Hauteur du menu */
+    padding: 20px;
+    /* Espacement autour du contenu */
+
 }

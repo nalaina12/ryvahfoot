@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Titre</title>
     <link rel="stylesheet" type="text/css" href="../css/StyleTournoi.css">
     <link rel="stylesheet" type="text/css" href="../asserts/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="../asserts/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/header.css">
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <meta charset="utf-8">
     <script src="../scripts/bootstrap.js"></script>
@@ -14,7 +16,7 @@
     <script src="../scripts/jquery-3.4.1.min.js"></script>
     <script src="../scripts/drop.js"></script>
     <style>
-        body 	{
+        body {
             font-style: normal;
             font-weight: bold;
             font-family: "Arial";
@@ -22,18 +24,20 @@
         }
     </style>
 </head>
-<body>
-<div>
-    <?php include('../ressources/header.php') ?>
-</div>
-<div>
-    <?php include('../ressources/menu.php') ?>
 
-</div>
-<div>
-    <?php include('../ressources/contenu.php'); ?>
-    <?php include('../src/Chrono.php'); ?>
-</div>
+<body>
+    <div>
+        <?php include('../ressources/header.php') ?>
+    </div>
+    <div>
+        <?php include('../ressources/menu.php') ?>
+
+    </div>
+    <div>
+        <?php include('../ressources/contenu.php'); ?>
+        <?php include('../src/Chrono.php'); ?>
+    </div>
 
 </body>
+
 </html>

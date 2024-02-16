@@ -1,6 +1,6 @@
-<div id="head" class="text-dark bg-warning">
+<div id="head" class="text-dark ">
     <ul id="vertical_nav" class="nav">
-        <div id="logo" class="" style="padding-left: 1.8em">
+        <div id="logo" class="">
             <li class="nav-item navbar-expand-sm bg-light justify-content-left">
                 <img src="../images/logoFoot.avif" height="40" width="55">
             </li>
@@ -41,7 +41,7 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link disabled" href="../login/login.php" tabindex="-1" aria-disabled="true">
-                    <span class="glyphicon glyphicon-off">login</span>
+                    <span class="glyphicon glyphicon-off">Déconnexion</span>
                 </a>
             </li>
             <li class="nav-item">

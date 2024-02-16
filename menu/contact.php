@@ -3,10 +3,11 @@
 
 <head>
     <title>Titre</title>
+    <link rel="stylesheet" href="../css/header.css">
     <link rel="stylesheet" type="text/css" href="../css/StyleTournoi.css">
     <link rel="stylesheet" type="text/css" href="../asserts/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="../asserts/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/header.css">
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <meta charset="utf-8">
     <script src="../scripts/bootstrap.js"></script>
